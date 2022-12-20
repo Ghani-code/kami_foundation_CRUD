@@ -1,1 +1,0 @@
-# kami_foundation_CRUD
